@@ -55,6 +55,11 @@ pip install --upgrade anthropic
 - 🔄 Process management for long-running code executions
 - 📚 Multi-file reading capability for efficient handling of multiple files simultaneously
 
+## Use with docker
+```
+docker run -it -v /path/to/your/code:/app claude-engineer
+```
+
 ## 🛠️ Installation
 
 1. Clone this repository:
